@@ -12,10 +12,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Mohan;A+Passionate+Developer;Welcome+to+my+Profile!&center=true&width=500&height=50&size=25">
 </a>
 <!-- Quick Info Section -->
+
 - 💬 Ask me about **React, Node, Mongo, MySql**
-
+  
 - 📫 How to reach me **mohandinkar75@gmail.com**
-
+  
 - ⚡ Fun fact **My favorite framework is Ctrl+Z. 🔄**
 
 <!-- Connect with me (Social Links Section) -->
