@@ -11,12 +11,6 @@
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Mohan;A+Passionate+Developer;Welcome+to+my+Profile!&center=true&width=500&height=50&size=25">
 </a>
-
-<!-- Profile views counter -->
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=mohandinkar&label=Profile%20views&color=0e75b6&style=flat" alt="mohandinkar" />
-</p>
-
 <!-- Quick Info Section -->
 <ul>
     <li>💬 Ask me about <strong>React, Node, Mongo, MySql</strong></li>
@@ -94,6 +88,10 @@
     </a>
     <img width="12" />
     
+</p>
+<!-- Profile views counter -->
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=mohandinkar&label=Profile%20views&color=0e75b6&style=flat" alt="mohandinkar" />
 </p>
 <!-- Uncomment the next block to show stats -->
 <!--
