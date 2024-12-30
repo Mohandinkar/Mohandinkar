@@ -31,6 +31,7 @@
     <a href="https://linkedin.com/in/mohan-dinkar" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohan-dinkar" height="30" width="40" />
     </a>
+    <img width="12" />
     <a href="https://www.leetcode.com/mohan_dinkar" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohan_dinkar" height="30" width="40" />
     </a>
