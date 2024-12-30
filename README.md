@@ -20,7 +20,7 @@
 - ⚡ Fun fact **Coding, Creating, and Exploring What's Next 🚀**
 
 <!-- Connect with me (Social Links Section) -->
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">✉️Connect with me:</h3>
 <p align="left">
     <!-- LinkedIn -->
     <a href="https://linkedin.com/in/mohan-dinkar" target="blank">
