@@ -4,12 +4,12 @@
 <h3 align="center">A Passionate Developer Exploring the World of Technology 🚀</h3>
 
 <img align=right alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
-  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Mohan;A+Passionate+Developer;Welcome+to+my+Profile!&center=true&width=500&height=50&size=25"></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohandinkar&label=Profile%20views&color=0e75b6&style=flat" alt="mohandinkar" />
 </p>
 
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Mohan;A+Passionate+Developer;Welcome+to+my+Profile!&center=true&width=500&height=50&size=25"></a>
+
 - 💬 Ask me about **React, Node, Mongo, MySql**
 
 - 📫 How to reach me **mohandinkar75@gmail.com**
