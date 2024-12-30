@@ -17,7 +17,7 @@
   
 - 📫 How to reach me **mohandinkar75@gmail.com**
   
-- ⚡ Fun fact **My favorite framework is Ctrl+Z. 🔄**
+- ⚡ Fun fact **Coding, Creating, and Exploring What's Next 🚀**
 
 <!-- Connect with me (Social Links Section) -->
 <h3 align="left">Connect with me:</h3>
