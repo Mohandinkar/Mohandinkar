@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohan</h1>
-  <svg width="400" height="50">
-    <text x="50%" y="50%" fill="limegreen" font-size="24" font-family="Arial" text-anchor="middle" dominant-baseline="middle">
-      Hey, I'm Mohan
-      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" />
-    </text>
-  </svg>
+
 <h3 align="center">A Passionate Developer Exploring the World of Technology 🚀</h3>
 <img align=right alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohandinkar&label=Profile%20views&color=0e75b6&style=flat" alt="mohandinkar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohandinkar&label=Profile%20views&color=0e75b6&style=flat" alt="mohandinkar" />
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Mohan;A+Passionate+Developer;Welcome+to+my+Profile!&center=true&width=500&height=50&size=25">
+  </a></p>
 
 - 💬 Ask me about **React, Node, Mongo, MySql**
 
