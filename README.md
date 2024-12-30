@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React, Node, Mongo, MySql**
   
-- 📫 Feel fre to reach me **mohandinkar75@gmail.com**
+- 📫 Feel free to reach me **mohandinkar75@gmail.com**
   
 - ⚡ Fun fact **Coding, Creating, and Exploring What's Next 🚀**
 
