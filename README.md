@@ -12,11 +12,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Mohan;A+Passionate+Developer;Welcome+to+my+Profile!&center=true&width=500&height=50&size=25">
 </a>
 <!-- Quick Info Section -->
-<ul>
-    <li>💬 Ask me about <strong>React, Node, Mongo, MySql</strong></li>
-    <li>📫 How to reach me: <strong>mohandinkar75@gmail.com</strong></li>
-    <li>⚡ Fun fact: <strong>My favorite framework is Ctrl+Z. 🔄</strong></li>
-</ul>
+- 💬 Ask me about **React, Node, Mongo, MySql**
+
+- 📫 How to reach me **mohandinkar75@gmail.com**
+
+- ⚡ Fun fact **My favorite framework is Ctrl+Z. 🔄**
 
 <!-- Connect with me (Social Links Section) -->
 <h3 align="left">Connect with me:</h3>
