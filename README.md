@@ -9,7 +9,7 @@
 
 <!-- Typing SVG (Dynamic text that simulates typing) -->
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Mohan;A+Passionate+Developer;Welcome+to+my+Profile!&center=true&width=500&height=50&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Mohan...;A+Passionate+Developer;Welcome+to+my+Profile!&center=true&width=500&height=50&size=25">
 </a>
 <!-- Quick Info Section -->
 
