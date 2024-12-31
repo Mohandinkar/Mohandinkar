@@ -3,14 +3,14 @@
 
 <!-- Subtitle Section -->
 <h3 align="center">A Passionate Developer Exploring the World of Technology 🚀</h3>
-
-<!-- Image Section (Right aligned GIF) -->
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
-
 <!-- Typing SVG (Dynamic text that simulates typing) -->
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Mohan...;A+Passionate+Developer;Welcome+to+my+Profile!&center=true&width=500&height=50&size=25">
 </a>
+<!-- Image Section (Right aligned GIF) -->
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
+
+
 <!-- Quick Info Section -->
 
 - 💬 Ask me about **React, Node, Mongo, MySql**
