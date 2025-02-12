@@ -81,10 +81,19 @@
     <img width="12" />
     
 </p>
+
+<img width="12" />
+ <!-- JWT Icon -->
+<a href="https://jwt.io/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jwt/jwt-plain.svg" alt="jwt" width="90" height="90"/> 
+    </a>
 <!-- Profile views counter -->
+<img width="12" />
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=mohandinkar&label=Profile%20views&color=0e75b6&style=flat" alt="mohandinkar" />
 </p>
+
+
 <!-- Uncomment the next block to show stats -->
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohandinkar&show_icons=true&locale=en" alt="mohandinkar" /></p>
