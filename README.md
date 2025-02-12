@@ -81,12 +81,6 @@
     <img width="12" />
     
 </p>
-
-<img width="12" />
- <!-- JWT Icon -->
-<a href="https://jwt.io/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jwt/jwt-plain.svg" alt="jwt" width="90" height="90"/> 
-    </a>
 <!-- Profile views counter -->
 <img width="12" />
 <p align="left">
