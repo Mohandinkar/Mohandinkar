@@ -82,18 +82,21 @@
     
 </p>
 
-### 📊 GitHub Stats
-<p align="center">
-    <a href="https://github.com/mohandinkar">
-        <img src="https://github-readme-stats.vercel.app/api?username=mohandinkar&show_icons=true&theme=radical" alt="GitHub Stats">
-    </a>
-</p>
-
 <!-- Profile views counter -->
 <img width="12" />
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=mohandinkar&label=Profile%20views&color=0e75b6&style=flat" alt="mohandinkar" />
 </p>
+
+---
+
+### 🎯 Quote of the Day
+<p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day">
+</p>
+
+---
+🔥 **"Code, Build, Break, Fix, Learn, Repeat!"** 🚀  
 
 
 <!-- Uncomment the next block to show stats -->
