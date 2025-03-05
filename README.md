@@ -81,6 +81,14 @@
     <img width="12" />
     
 </p>
+
+### 📊 GitHub Stats
+<p align="center">
+    <a href="https://github.com/mohandinkar">
+        <img src="https://github-readme-stats.vercel.app/api?username=mohandinkar&show_icons=true&theme=radical" alt="GitHub Stats">
+    </a>
+</p>
+
 <!-- Profile views counter -->
 <img width="12" />
 <p align="left">
